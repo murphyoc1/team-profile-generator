@@ -4,6 +4,9 @@
    
    ## Description 
    The team profile generator takes in your team members information and creates a HTML webpage that summaries each person of your group. You will have access to team structure, names, email addresse, and GitHub profiles.
+   
+   Link for the video demonstration is here:
+   https://watch.screencastify.com/v/aTO5n9fJk4uxvnQsMuBZ
 
    ## Table of Contents
     - [Description](#description)
